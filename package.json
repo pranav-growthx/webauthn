@@ -1,6 +1,6 @@
 {
   "name": "@pranav-growthx/passwordless-webauthn",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "A small wrapper around the webauthn protocol to make one's life easier.",
   "main": "dist/esm/index.js",
   "exports": {
